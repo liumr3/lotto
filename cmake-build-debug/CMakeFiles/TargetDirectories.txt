@@ -1,0 +1,3 @@
+C:/Users/liumr3/CLionProjects/lotto/cmake-build-debug/CMakeFiles/lotto.dir
+C:/Users/liumr3/CLionProjects/lotto/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/liumr3/CLionProjects/lotto/cmake-build-debug/CMakeFiles/rebuild_cache.dir
